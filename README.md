@@ -1,5 +1,8 @@
 # vuejs-calculator
 
+- [Demonstration on Youtube](https://youtu.be/1EgszRlxs9w)
+
+
 ## Project setup
 ```
 npm install
@@ -25,5 +28,7 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## License
+
+[MIT](LICENSE)
+
